@@ -1,1 +1,1 @@
-import { View } from "react-natives";
+import { View } from 'react-native';
